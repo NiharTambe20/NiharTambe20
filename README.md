@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nihar Tambe</h1>
 <h3 align="center">Aspiring AI Engineer | Software Developer</h3>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=48499A&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+%26+Learning+Every+Day" />
+</p>
+<p align="center">
   Building intelligent applications, exploring emerging technologies, and turning ideas into reality.
 </p>
 <p align="center">
@@ -33,7 +36,16 @@ EzExam	Examination management system.	React, Java, JDBC, MySQL
 Movie Recommendation System	ML-based personalized movie recommendations.	Python, Streamlit, Scikit-learn
 
 📊 GitHub Statistics
+<h3 align="center">📈 Contribution Activity</h3>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiharTambe20&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NiharTambe20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NiharTambe20&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharTambe20&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
