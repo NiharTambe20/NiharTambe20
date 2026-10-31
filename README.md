@@ -45,11 +45,13 @@ Movie Recommendation System	ML-based personalized movie recommendations.	Python,
 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/nihar-tambe-6a88ab377/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:nihartambe20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 ⸻
 
 <h3 align="center">💡 Building Today. Innovating Tomorrow.</h3>
