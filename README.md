@@ -36,16 +36,7 @@ EzExam	Examination management system.	React, Java, JDBC, MySQL
 Movie Recommendation System	ML-based personalized movie recommendations.	Python, Streamlit, Scikit-learn
 
 📊 GitHub Statistics
-<h3 align="center">📈 Contribution Activity</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiharTambe20&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NiharTambe20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NiharTambe20&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharTambe20&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
